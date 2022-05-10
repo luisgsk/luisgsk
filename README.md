@@ -26,7 +26,7 @@
 <hr>
 <h4 align="left">Conectate conmigo:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/luis-guillermo-valbuena-a3a6b4222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-guillermo-valbuena-a3a6b4222" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luis-guillermo-valbuena-a3a6b4222" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-guillermo-valbuena-a3a6b4222" height="30" width="40" /></a>
 <a href="mailto:luisguillermo.sk@gmail.com"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="mssql" height="30" width="40"/><a/>
-<a href="https://drive.google.com/file/d/116nsM3N_jLCrIRxz8f5ytaS7u1El571B/view?usp=sharing"><img align="center" src="https://www.svgrepo.com/show/281753/curriculum.svg" alt="mssql" height="50" width="50"/><a/>
+<a target="_blank href="https://drive.google.com/file/d/116nsM3N_jLCrIRxz8f5ytaS7u1El571B/view?usp=sharing"><img align="center" src="https://www.svgrepo.com/show/281753/curriculum.svg" alt="mssql" height="50" width="50"/><a/>
 </p>
